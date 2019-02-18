@@ -28,3 +28,7 @@ V70U7P/kR5PqjPEnA2WuADWvjGJmOFumsRBiHGdbyui6xuekl4BXm/1WXrLLvL3I
 ERgzTfH7oJ2YxIofsVLC4haQ4DJQfnt5v9Bf8WitGhfk1tfOYCYazXVYzAJgq8lW
 Sv8TJNtYFTGXeCiGOl3hBmTO8m3PF09F/IWeDCW1IY9PrPWe4sFtqBf/O/lFMDtG
 -----END RSA PRIVATE KEY-----
+Host ccloud-mtl
+  Hostname push-mtl-clevercloud-customers.services.clever-cloud.com
+  User git
+  IdentityFile ~/.ssh/config
